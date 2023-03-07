@@ -1,3 +1,7 @@
 [submodule "_theme_packages/tom"] 
    path = _theme_packages/tom 
    url = https://github.com/jekyllbootstrap/theme-tom
+ 
+[submodule "_theme_packages/the-minimum"] 
+   path = _theme_packages/the-minimum 
+   url = https://github.com/jekyllbootstrap/theme-the-minimum
