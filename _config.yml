@@ -18,9 +18,9 @@ author :
 production_url : https://curlymess.github.io/PrisonBookBans/
 
 markdown: kramdown
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme 
+# remote_theme: pages-themes/slate@v0.2.0
+# plugins:
+# - jekyll-remote-theme 
 
 JB :
   version : 0.3.0
